@@ -9,6 +9,7 @@ html{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #111;
     padding: 24px 24px 0;
+    scroll-behavior: smooth;
     
 }
 ::selection{
@@ -119,7 +120,7 @@ a:active {
         font-size: 58px;
         line-height: 64px;
     }
-    
+
     html{
         padding: 48px 48px 24px;
     }
